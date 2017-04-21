@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="default_image_height">120dp</dimen>
+    <dimen name="large_image_height">220dp</dimen>
+    <dimen name="default_margin">10dp</dimen>
+    <dimen name="default_card_margin">5dp</dimen>
+    <dimen name="default_card_corner_radius">4dp</dimen>
+    <dimen name="large_title_size">24sp</dimen>
+    <dimen name="medium_title_size">18sp</dimen>
+
+</resources>
